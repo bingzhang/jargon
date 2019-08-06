@@ -111,5 +111,6 @@
 		<module>data-profile</module>
 		<module>jargon-zipservice</module>
 		<module>jargon-mdquery</module>
+		<module>examples</module>
 	</modules>
 </project>

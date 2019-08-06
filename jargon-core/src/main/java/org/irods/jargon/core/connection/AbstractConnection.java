@@ -664,7 +664,6 @@ public abstract class AbstractConnection {
 				bytesRead += read;
 			}
 			result = bytesRead;
-
 			return result;
 		} catch (ClosedChannelException e) {
 			log.error("exception reading from socket", e);
